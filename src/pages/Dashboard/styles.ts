@@ -130,3 +130,4 @@ export const FoodPricing = styled.Text`
   font-weight: 600;
   color: #39b100;
 `;
+
